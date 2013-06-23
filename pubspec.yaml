@@ -1,0 +1,5 @@
+name: charmgr_components
+description: A sample web application
+dependencies:
+  browser: any
+  logging_handlers: any
